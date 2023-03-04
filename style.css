@@ -8,8 +8,9 @@ html {
 h1,
 h2 {
   font-family: 'Playfair Display', serif;
+  text-align: center;
 }
 
 p {
-  font-family: 'Open Sans Light', sans-serif
+  text-align: center;
 }
